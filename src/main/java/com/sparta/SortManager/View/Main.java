@@ -1,4 +1,6 @@
-package com.sparta.SortManager;
+package com.sparta.SortManager.View;
+
+import com.sparta.SortManager.Controller.ArrayGenerator;
 
 import java.util.Arrays;
 import java.util.Scanner;

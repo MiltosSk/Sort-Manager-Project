@@ -1,4 +1,4 @@
-package com.sparta.SortManager;
+package com.sparta.SortManager.Controller;
 
 import java.util.Arrays;
 import java.util.Random;
