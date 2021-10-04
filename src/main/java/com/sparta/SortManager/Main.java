@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int[] ar1 = Array.arrayGenerator();
+        int[] ar1 = ArrayGenerator.arrayGenerator();
         System.out.println(Arrays.toString(ar1));
         Sorter theFactory;
         System.out.println("Would you prefer to sort the array with 1)Bubble Sort or 2)Merge Sort");

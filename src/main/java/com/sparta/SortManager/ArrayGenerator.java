@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Array {
+public class ArrayGenerator {
     public static int[] arrayGenerator() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number of elements you want to store in the array: ");
