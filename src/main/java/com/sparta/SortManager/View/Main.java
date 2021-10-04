@@ -1,6 +1,9 @@
 package com.sparta.SortManager.View;
 
 import com.sparta.SortManager.Controller.ArrayGenerator;
+import com.sparta.SortManager.Model.BubbleSort;
+import com.sparta.SortManager.Model.MergeSort;
+import com.sparta.SortManager.Model.Sorter;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
 package com.sparta.SortManager.Model;
 
-public class MergeSort {
+public class MergeSort implements Sorter {
     @Override
     public int[] whichSort(int[] array){
         mergeSort(array);
